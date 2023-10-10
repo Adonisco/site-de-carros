@@ -1,0 +1,15 @@
+.imagem1 {
+  width: 20%
+}
+
+.centralizar {
+  text-align: center
+  display: inline-block 
+  vertical-align: top
+}
+
+body {
+  background-color: aquamarine;
+  text-align:center;
+}
+
