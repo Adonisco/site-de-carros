@@ -1,15 +1,51 @@
-.imagem1 {
-  width: 20%
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-style: oblique;
+    background-color: blue;
+    text-align: center;
 }
 
-.centralizar {
-  text-align: center
-  display: inline-block 
-  vertical-align: top
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
 }
 
 body {
-  background-color: aquamarine;
-  text-align:center;
+    background-color: white;
+}
+.imagem1 {
+    width: 500px;
+}
+.imagemcentralizada {
+ text-align: center;
 }
 
+.unicornio {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
