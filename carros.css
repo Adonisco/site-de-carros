@@ -29,7 +29,7 @@ body {
  text-align: center;
 }
 
-carro {
+.carro {
     background-color: forestgreen
 
 }
@@ -42,6 +42,14 @@ carro {
         padding: 5%;
         margin-right: 10%;
     }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
+
 .lista {
         display: inline-block;
         padding: 5%;
@@ -53,9 +61,8 @@ carro {
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
 }
-nav a{
-    text-transform: uppercase;
-    color: rgb(0, 0, 0);
-    font-weight: 300;
-    font-size: 100%;
+}
+nav a:hover {
+    color: orange;
+    text-decoration: underline;
 }
