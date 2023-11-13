@@ -22,12 +22,17 @@ strong {
 body {
     background-color: white;
 }
-.imagem1 {
+.images.jpeg {
     width: 1000px;
 }
 .imagemcentralizada {
  text-align: center;
 }
+.images.jpeg {
+    width: 1000px;
+}
+.imagemcentralizada {
+ text-align: center;
 
 .carro {
     background-color: forestgreen
